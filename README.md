@@ -1,4 +1,4 @@
-# 🦖 Dino Runner Game
+# Dino Runner Game
 
 A Python remake of the classic "Chrome Dino" game, built with **Pygame**!  
 Run, jump, duck, and survive as long as you can while dodging obstacles in a desert landscape.
@@ -73,8 +73,8 @@ While playing, you can type these codes (no need to press ENTER):
 
 7. **License**
 This project is open-sourced for learning and fun.
-Feel free to modify and use it — but give credit if you share it publicly! 😊
+Feel free to modify and use it — but give credit if you share it publicly! 
 
 8. **Acknowledgements**
 Inspired by the Google Chrome offline Dino Game.
-Built using Python and Pygame <3.
+Built using Python and Pygame.
